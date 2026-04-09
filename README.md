@@ -1,3 +1,4 @@
+manuel
 Proyecto tienda Deporte para trabajar en equipo de desarrollo colaborativo
 El objetivo no es solo programar en Java, sino dominar Git y la integración con IntelliJ IDEA, simulando cómo se trabaja en una empresa de desarrollo de software.
 Pasos a seguir:

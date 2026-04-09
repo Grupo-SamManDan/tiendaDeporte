@@ -24,7 +24,7 @@ public abstract class Persona {
     public String getDni() { return dni; }
     public void setDni(String dni) { this.dni = dni; }
 
-    //Soy dani prueba de que está bien sincronizado
+    //Soy dani prueba de que está bien sincronizado asdasdfasdf
 
     // Método que todos deberán implementar
     public abstract void mostrarDatos();

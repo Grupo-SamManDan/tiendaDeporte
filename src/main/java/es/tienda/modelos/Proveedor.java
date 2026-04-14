@@ -25,6 +25,6 @@ public class Proveedor extends Persona {
         System.out.println("Nombre: " + getNombre());
         System.out.println("Apellidos: " + getApellidos());
         System.out.println("DNI: " + getDni());
-        System.out.println("Tipo proveedor: " + tipoProveedor);
+        System.out.println("Tipo proveedor: " + tipoProveedor );
     }
 }

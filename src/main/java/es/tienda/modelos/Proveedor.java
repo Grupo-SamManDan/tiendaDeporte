@@ -21,7 +21,7 @@ public class Proveedor extends Persona {
     public void setTipoProveedor(TipoProveedor tipoProveedor) { this.tipoProveedor = tipoProveedor; }
 
     @Override
-    public void mostrarDatos() {
+    public void mostrarDatos(){
         System.out.println("Nombre: " + getNombre());
         System.out.println("Apellidos: " + getApellidos());
         System.out.println("DNI: " + getDni());
